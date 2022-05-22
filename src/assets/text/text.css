@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "JYDJW";
+    src: url('./JYDJW.TTF');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "YHJW";
+    src: url('./YHJW.TTF');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "XYSJW";
+    src: url('./XYSJW.TTF');
+    font-weight: normal;
+    font-style: normal;
+}
